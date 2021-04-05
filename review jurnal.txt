@@ -1,5 +1,11 @@
-Judul : A Comparison of Expressive Speech Synthesis Approaches based on Neural Network
+Judul : A Comparison of Expressive Speech Synthesis Approaches based on Neural Network>
 Penulis : Liumeng Xue (2018) ASMMC-MMAC’18
 
 Paper ini membahas mengenai sintesis suara ekspresif dengan menggunakan dataset ucapan yang sedikit 
 Paper ini membandingkan 3 model DNN speech synthesis sebagai berikut 
+
+Judul : Emotional Statistical Parametric Speech Synthesis Using LSTM-RNNs 
+Penulis : Shumin An(2017) Proceedings of APSIPA Annual Summit and Conference 2017
+
+Paper ini menjelaskan 2 metode speech synthesis yaitu LSTM dengan menggunakan emotion codes dan emotion dependent
+Dari paper ini didapatkan bahwa 2 metode tersebut memiliki hasil yang lebih baik dibandingkan menggunakan LSTM yang berbasis HMM
