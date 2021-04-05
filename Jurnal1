@@ -1,0 +1,4 @@
+Judul : Building a Controllable Expressive Speech Synthesis System with Multiple Emotion Strengths
+Penulis : Xiaolian Zhu (2019)
+Membuat controllable sintesis suara ekspresif menggunakan LSTM
+-Pendekatan HMM tidak cukup memenuhi kealamian ucapan karena adanya keterbatasan yaitu kualitas vocoder, akurasi model akustik dan masalah oversmoothing 
